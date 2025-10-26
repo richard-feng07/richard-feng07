@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm working on my CS1200 assignment
+## 1200 Assignment
 
 <!--
 **richard-feng07/richard-feng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
