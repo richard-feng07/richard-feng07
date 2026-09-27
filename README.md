@@ -47,7 +47,3 @@ CS @ **Northeastern University** · Boston, MA · Open to **Spring 2027 co-op**
 | **[Sunsetology](https://sunsetology-smoky.vercel.app/)** | Predicts sunset quality anywhere. Weather APIs return hourly data, sunsets happen at 6:42 — so it interpolates to the exact minute. `React` `Flask` |
 | **[SARGE](https://sarge-nu.vercel.app/)** | Coding assessments + applicant tracking for university recruiting. `Next.js` `Prisma` |
 | **[FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)** | Open-source project management for a Formula SAE team. `TypeScript` `Express` |
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=richard-feng07&show_icons=true&hide_border=true&theme=default" height="150">
