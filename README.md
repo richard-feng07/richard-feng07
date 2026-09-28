@@ -10,7 +10,7 @@ CS @ **Northeastern University** · Boston, MA · Open to **Spring 2027 co-op**
 
 ### ⚡ Quick facts
 
-- 🔭 Building **[SARGE](https://sarge-nu.vercel.app/)** — an open-source HackerRank alternative — with [Sandbox](https://sandboxnu.com/)
+- 🔭 Building **[SARGE](https://sarge-nu.vercel.app/)**, an open-source HackerRank alternative with [Sandbox](https://sandboxnu.com/)
 - 🏎️ Shipping features on **[FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)**, used by 200+ members of Northeastern Electric Racing
 - 🌅 Made **[Sunsetology](https://sunsetology-smoky.vercel.app/)** because I kept missing good sunsets
 - 🧗 Off-screen: bouldering, thrifting, horror movies, hiking
