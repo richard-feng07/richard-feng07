@@ -1,6 +1,6 @@
 # Hey, I'm Richard 👋
 
-CS @ **Northeastern University** · Boston, MA · Open to **Spring 2027 co-op**
+CS @ **Northeastern University** · Boston, MA · Irvine, CA · Open to **Spring 2027 co-op**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardfeng07/)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richardfeng43@gmail.com)
