@@ -1,1 +1,0 @@
-I am a freshman at neu majoring in CS.
