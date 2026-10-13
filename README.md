@@ -1,4 +1,4 @@
-# Hey, I'm Richard 👋
+# Hey, I'm Richard
 
 CS @ **Northeastern University** · Boston, MA · Irvine, CA · Open to **Spring 2027 co-op**
 
@@ -8,7 +8,7 @@ CS @ **Northeastern University** · Boston, MA · Irvine, CA · Open to **Spring
 
 ---
 
-### ⚡ Quick facts
+### Quick facts
 
 - 🔭 Building **[SARGE](https://sarge-nu.vercel.app/)**, an open-source HackerRank alternative with [Sandbox](https://sandboxnu.com/)
 - 🏎️ Shipping features on **[FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)**, used by 200+ members of Northeastern Electric Racing
@@ -17,7 +17,7 @@ CS @ **Northeastern University** · Boston, MA · Irvine, CA · Open to **Spring
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ CS @ **Northeastern University** · Boston, MA · Irvine, CA · Open to **Spring
 
 ---
 
-### 📌 Projects
+### Projects
 
 | | |
 |---|---|
